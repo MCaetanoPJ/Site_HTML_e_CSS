@@ -1,0 +1,49 @@
+html,body{	
+		height:100%;
+		width:100%;
+		background-color: white;
+}
+#header{
+		position:absolute;
+		width:100%;
+		height:68px;
+		background:#0e2b3d;
+		text-shadow: -20px 18px 16px black;
+		color: #BADA55;
+		box-shadow: -7px -11px black;
+		font-size: 2em;
+		border-radius:10px;
+		font-family; Agency FB;
+}
+#tudo{
+		height:100%;
+		width: 760px;
+ 		margin:0 auto;
+		background: white;
+		
+}	
+#texto{
+		margin-left:50px;
+		margin-top:130px;
+}
+#img{
+		margin-left:50px;
+}
+#indecetb{
+		border: 1px solid grey;
+		width:40%;
+		background: hsla(0, 0%, 50%, 0.24);
+		margin:50px;
+}
+#indice{
+		margin-left:10%;
+}
+#tabela{
+		margin-left:50px;
+}		
+#SobreaCarreira{
+		margin-left:50px;
+}
+#imagem{
+		float: right;
+}
